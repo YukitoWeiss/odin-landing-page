@@ -201,3 +201,13 @@ blockquote {
 
   border: 2px solid #f9faf8;
 }
+
+/* FOOTER */
+.footer {
+  padding: 40px 0;
+}
+
+.footer p {
+  text-align: center;
+  color: #f9faf8;
+}
