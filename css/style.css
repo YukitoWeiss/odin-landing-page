@@ -169,3 +169,35 @@ blockquote {
   text-align: right;
   color: #1f2937;
 }
+
+/* SECTION-CTA */
+.section-cta {
+  padding: 100px 0;
+}
+
+.heading-tertiary {
+  font-size: 24px;
+}
+
+.cta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px 105px;
+
+  border-radius: 8px;
+  background-color: #3883f6;
+  color: #f9faf8;
+}
+
+.cta-text p {
+  color: #e5e7eb;
+}
+
+.cta button {
+  padding: 8px 40px;
+
+  color: #f9faf8;
+
+  border: 2px solid #f9faf8;
+}
